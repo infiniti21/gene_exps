@@ -1,6 +1,6 @@
 # gene_exps
 
-PART 1 - 'queries1.sql'
+PART 1
 
 ## Identifying important genes for a disease and predicting presence of disease based on gene expression values.
 
